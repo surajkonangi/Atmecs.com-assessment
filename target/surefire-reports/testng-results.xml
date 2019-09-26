@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-26T11:11:10Z" name="YATRAHOLIDATBOOKING" finished-at="2019-09-26T11:11:10Z" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- YATRAHOLIDATBOOKING -->
+  <suite started-at="2019-09-26T11:10:28Z" name="Suite" finished-at="2019-09-26T11:11:10Z" duration-ms="41606">
+    <groups>
+    </groups>
+    <test started-at="2019-09-26T11:10:28Z" name="Test" finished-at="2019-09-26T11:11:10Z" duration-ms="41606">
+      <class name="com.atmecs.atmecswebsite.Testscripts.ValidatingFootersTestScript">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.atmecs.atmecswebsite.Testscripts.ValidatingFootersTestScript@5d47c63f]" started-at="2019-09-26T11:10:28Z" name="invokeBrowser" finished-at="2019-09-26T11:10:51Z" duration-ms="23051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="testscript()[pri:0, instance:com.atmecs.atmecswebsite.Testscripts.ValidatingFootersTestScript@5d47c63f]" started-at="2019-09-26T11:10:51Z" name="testscript" finished-at="2019-09-26T11:11:10Z" duration-ms="18451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscript -->
+      </class> <!-- com.atmecs.atmecswebsite.Testscripts.ValidatingFootersTestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
